@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.mycard {
+  width: 300px;
+  display: inline-flex;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  /* flex-direction:row;
+  align-items: flex-start; */
+  justify-content: space-evenly;
+}
