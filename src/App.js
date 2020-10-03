@@ -12,7 +12,7 @@ function App() {
   const [postsPerPage, setPostsPerPage] = useState(10);
 
 
-  const API_KEY = "LqXPz6o4ZOrVxDq37NnhxRpKCXikgNkZvVft729a" 
+  const API_KEY = "YOUR_API_KEY" 
   const congress = 116;
   const chamber = "senate"
 
